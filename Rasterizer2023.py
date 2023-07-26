@@ -46,7 +46,7 @@ rend.glLine(V2(193, 383), V2(165, 380))
     for y in range(height):
         if random.random() > 0.5:
             rend.glColor(1, 1, 1)
-            rend.glPoint(x, y)
+            rend.glPoint(zx, y)
  """
 
 #Patron 4 (Color static)
